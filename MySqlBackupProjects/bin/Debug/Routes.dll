@@ -1,6 +1,6 @@
-208.113.158.131
-sis_database
-gift2you4HELP@
-sis_database
-240
-C:\Backup
+db_host
+db_username
+db_password
+db_name
+backup_interval(minutes)
+backup_location(C:\Backup)
